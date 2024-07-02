@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "medicare.com.medicare.app-mergeDebugResources-47:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\midoa\\.gradle\\caches\\transforms-3\\7531f1d8c8e705d7c1ef8d3b620071e1\\transformed\\material-1.12.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

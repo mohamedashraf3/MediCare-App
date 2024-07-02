@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "82283338045",
+    "firebase_url": "https://medicare-app-a1dbd-default-rtdb.firebaseio.com",
+    "project_id": "medicare-app-a1dbd",
+    "storage_bucket": "medicare-app-a1dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82283338045:android:ccaaf40f55a29b22b0cd54",
+        "android_client_info": {
+          "package_name": "medicare.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82283338045-dd4ql28an6k82jm9j500vn2pe4r7v40u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK2fiwe44Ab9dynHRQlem6CqQXWN0uBzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82283338045-dd4ql28an6k82jm9j500vn2pe4r7v40u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82283338045-m989asaeke033qumi9f4it2o802hv46u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "medicare.com.medicare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82283338045:android:e1ecabc1e6a9d88ab0cd54",
+        "android_client_info": {
+          "package_name": "medicare.com.medicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82283338045-uotgue295blr537fikcg7deeh6lhjc7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "medicare.com.medicare",
+            "certificate_hash": "ab3d0ec4b363910d9058e43b69b208c7eaa77e09"
+          }
+        },
+        {
+          "client_id": "82283338045-dd4ql28an6k82jm9j500vn2pe4r7v40u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK2fiwe44Ab9dynHRQlem6CqQXWN0uBzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82283338045-dd4ql28an6k82jm9j500vn2pe4r7v40u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82283338045-m989asaeke033qumi9f4it2o802hv46u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "medicare.com.medicare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
